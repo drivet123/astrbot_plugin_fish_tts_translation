@@ -2,7 +2,7 @@ name: astrbot_plugin_fish_tts_translation
 display_name: Fish Audio 翻译语音
 desc: 按概率将 QQ 短文本回复翻译并添加情感标签，再使用 Fish Audio 合成语音。
 version: v1.0.0
-author: Anonymous
+author: drivet
 support_platforms:
   - aiocqhttp
 astrbot_version: ">=4.5.7,<5"
